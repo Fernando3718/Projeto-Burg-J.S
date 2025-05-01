@@ -22,6 +22,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 20px;
+    
 }
 
 button {
@@ -31,7 +32,7 @@ button {
     padding: 10px;
     cursor: pointer;
     font-weight: bold;
-    width: 110px;
+    width: 120px;
 }
 
 button:hover {
